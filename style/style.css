@@ -1,0 +1,54 @@
+* {
+    font-family: "Raleway", sans-serif;
+}
+
+.f-inter {
+    font-family: "Inter", sans-serif;
+}
+
+.bg-base {
+    background-color: #1DD100;
+}
+
+.bg-base-10 {
+    background-color: #1cd1001a;
+    border: 2px solid #1cd10066;
+    font-weight: 700;
+    font-size: 20px;
+    transition: 300ms;
+    color: #1DD100;
+}
+
+.bg-base-10:hover {
+    background-color: rgba(28, 209, 0, 0.511);
+    border: 2px solid #1cd100;
+}
+
+.bg-base-buy {
+    background-color: #1cd100;
+    border: 2px solid #1cd100c3;
+    font-weight: 700;
+    font-size: 20px;
+    transition: 300ms;
+    color: #000000;
+}
+
+.bg-base-buy:hover {
+    background-color: #25ff03;
+    border: 2px solid #1cd100c3;
+}
+
+.bg-car {
+    border-radius: 32px;
+    background: linear-gradient(180deg, rgba(19, 19, 24, 0.1) 0%, rgba(19, 19, 24, 0.00)),
+        url("/images/banner.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.ticket-border{
+    box-sizing: border-box;
+    border-top: 2px solid rgb(29, 209, 0);
+    border-radius: 88px 88px 0px 0px;
+
+}
