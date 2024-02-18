@@ -41,7 +41,7 @@
 .bg-car {
     border-radius: 32px;
     background: linear-gradient(180deg, rgba(19, 19, 24, 0.1) 0%, rgba(19, 19, 24, 0.00)),
-        url("/images/banner.png");
+        url("images/banner.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
