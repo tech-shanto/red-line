@@ -60,7 +60,16 @@ html {
 .couponDivider{
     position: relative;
 }
+
 .gullu{
     position: absolute;
     left: 55%;
+}
+
+.ticketDivider{
+    position: relative;
+}
+.info-devider{
+    position: absolute;
+    right: 15%;
 }
