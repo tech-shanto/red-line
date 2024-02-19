@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+  }
 * {
     font-family: "Raleway", sans-serif;
 }
@@ -52,4 +55,12 @@
     border-top: 2px solid rgb(29, 209, 0);
     border-radius: 88px 88px 0px 0px;
 
+}
+
+.couponDivider{
+    position: relative;
+}
+.gullu{
+    position: absolute;
+    left: 55%;
 }
